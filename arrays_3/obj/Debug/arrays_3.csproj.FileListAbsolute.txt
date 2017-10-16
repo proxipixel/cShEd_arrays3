@@ -1,0 +1,6 @@
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\bin\Debug\arrays_3.exe.config
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\bin\Debug\arrays_3.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\bin\Debug\arrays_3.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\obj\Debug\arrays_3.exe
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\obj\Debug\arrays_3.pdb
+C:\Users\proxipixel\Documents\Visual Studio 2015\Projects\c#_nix_tasks\arrays_3\arrays_3\obj\Debug\arrays_3.csprojResolveAssemblyReference.cache
